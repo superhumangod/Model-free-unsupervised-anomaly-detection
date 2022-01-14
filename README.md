@@ -18,10 +18,19 @@ We utilized the original code in ALFA dataset to make this code.
 We used this code to process ALFA dataset for our purpose.
 
 3) Stacked LSTM folder
-3-1) data_LSTM
+3-1) data_LSTM folder
 Data for learning the code.
 3-2) 20220114_the stacked LSTM.ipynb
 This is a jupyter lab file written in Python 3.7 and tensorflow 2.3.1
-This code contains our model and 
+In this code, chapter 1~3 is our model.
+Chapter 4 is the code for learning the reference [21] in our paper.
+Chapter 5 is for comparing a response time.
 3-3) 20220113_L=4_model.47-0.1205.h5
 Best learned stacked LSTM model for our research.
+
+4) ICRA paper folder
+4-1) data folder
+Data for learning the code
+4-2) ICRAsim.m
+This is a matlab file.
+This code is for learning the reference [11] in our paer.
