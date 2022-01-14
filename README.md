@@ -22,7 +22,7 @@ Data for learning the code.\
 This is a jupyter lab file written in Python 3.7 and tensorflow 2.3.1\
 In this code, chapter 1~3 is our model.\
 Chapter 4 is the code for learning the reference [21] in our paper.\
-Chapter 5 is for comparing a response time.\
+Chapter 5 is for comparing response times.\
 3-3) 20220113_L=4_model.47-0.1205.h5\
 Best stacked LSTM model in our research.
 
