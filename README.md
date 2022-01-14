@@ -4,9 +4,9 @@ This is a source code for "Model-free Unsupervised Anomaly Detection of a Genera
 
 1) Data
 We used ALFA (A Dataset for UAV Fault and Anomaly Detection) dataset from\
-https://kilthub.cmu.edu/articles/dataset/ALFA_A_Dataset_for_UAV_Fault_and_Anomaly_Detection/12707963
+https://kilthub.cmu.edu/articles/dataset/ALFA_A_Dataset_for_UAV_Fault_and_Anomaly_Detection/12707963 \
 Detailed explanation of the data is in\
-http://theairlab.org/alfa-dataset/
+http://theairlab.org/alfa-dataset/ \
 If you are using the data in this repository, please cite\
 A. Keipour, M. Mousaei, and S. Scherer, “ALFA: A dataset for UAV fault and anomaly detection,” The International Journal of Robotics Research, vol. 0. no.  0,  pp.  1–6,  October  2020.  [Online]. Available:https://doi.org/10.1177/0278364920966642
 
