@@ -1,6 +1,6 @@
 # Model-free-unsupervised-anomaly-detection
 
-This is a source code for "Model-free Unsupervised Anomaly Detection of a General Robotic System Using a Stacked LSTM and Its Application to a Fixed-wing Unmanned Aerial Vehicle"
+This is a source code for "Model-Free Unsupervised Anomaly Detection of a General Robotic System Using a Stacked LSTM and Its Application to a Fixed-Wing Unmanned Aerial Vehicle", International Conference on Intelligent Robots and Systems (IROS 2022).
 
 1) Data
 We used ALFA (A Dataset for UAV Fault and Anomaly Detection) dataset from\
